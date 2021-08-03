@@ -8,3 +8,5 @@
 | Static Commerce | None                                   | 1% with $10/mo minimum + gateway  | https://static.tools/commerce/ | Don't know much about it. should integrate very well.                                |
 | Shift4shop      | Unsure                                 | 2.9% + $0.30 (NO gateway fees)    | https://www.shift4shop.com/    | Big company, not very transparent about pricing, might be complex setup              |
 | Romancart       | None?                                  | Free + Gateway                    | https://www.romancart.com/     | Seems free but no idea about this one                                                |
+
+Why won't the table work?
